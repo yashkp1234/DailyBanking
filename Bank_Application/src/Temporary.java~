@@ -1,0 +1,9 @@
+public class Temporary
+{ 
+ public static void main(String [] args)
+ {
+  stockPortfolio sp = new stockPortfolio();
+  sp.getQuote("TD")
+ }
+
+}
